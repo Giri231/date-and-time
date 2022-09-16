@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout<<"current date is"<<__DATE__;
+    cout<<endl;
+    cout<<"current time    is"<<__TIME__;
+    return 0;
+}
